@@ -16,10 +16,10 @@ optional arguments:
   
   -m http method, --method http method
   
-                        Specify the HTTP method in use (GET/POST/PUT/HEAD/PATCH/DELETE). Default method is GET
+   Specify the HTTP method in use (GET/POST/PUT/HEAD/PATCH/DELETE). Default method is GET
   -d data to send, --data data to send
   
-                        Specify data which is sent to server with POST/PATCH
+Specify data which is sent to server with POST/PATCH
   -a address, --address address
   
                         Address of the destination
