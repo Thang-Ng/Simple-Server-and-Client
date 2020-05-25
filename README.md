@@ -14,8 +14,8 @@ optional arguments:
 
   -h, --help            show this help message and exit
   
-  -m http method, --method http method
-  
+  -m http method, --method http method   
+   
    Specify the HTTP method in use (GET/POST/PUT/HEAD/PATCH/DELETE). Default method is GET
    
   -d data to send, --data data to send
@@ -24,4 +24,4 @@ optional arguments:
   
   -a address, --address address
   
-                        Address of the destination
+  Address of the destination
