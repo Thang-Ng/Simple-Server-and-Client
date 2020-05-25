@@ -12,7 +12,7 @@ Make a request to server
 
 optional arguments:
 
-  -h, --help        show this help message and exit
+  -h, --help       &lt; show this help message and exit
   
   -m http method, --method http method        Specify the HTTP method in use (GET/POST/PUT/HEAD/PATCH/DELETE). Default method is GET
    
